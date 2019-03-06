@@ -1,0 +1,17 @@
+***Steps to Execute the code***
+->Copy the entire folder structure onto desktop
+
+->Make sure you have python 2.7 or above
+
+->Make sure you have pytorch v1.0.1 +,Spyder v3.3.1 +,KIVY 1.0.9 +
+
+->In the spyder IDE navigate from file explorer to this folder.
+
+->Open the three files ai.py.car.kv and map.py
+
+->In the map file select all (Ctrl+A) and click Run.
+
+->A window named Car should pop up and you can proceed.
+
+********** END *******
+
